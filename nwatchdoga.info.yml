@@ -1,0 +1,5 @@
+name: nwatchdoga
+type: module
+description: Drupal 9 watchdog exampl
+package: Watchdog Example
+core_version_requirement: ^9 || ^10
